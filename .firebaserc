@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "whatsapp-mern-90efc": {
+      "hosting": {
+        "my-dream-app": [
+          "whatsapp-mern-90efc"
+        ]
+      }
+    }
+  }
+}
